@@ -1,0 +1,5 @@
+zadanie 19
+
+1. start 18.09
+2. html/css/js (w tym jquery)
+3. rwd obowiazkowo
