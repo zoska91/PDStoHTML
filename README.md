@@ -6,3 +6,4 @@ I used:
 - CSS
 - RWD
 - JS
+- JQuery
