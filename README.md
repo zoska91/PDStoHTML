@@ -1,3 +1,9 @@
 
 First PDS to HTML
-It's not my project.
+
+I used: 
+- HTML
+- CSS
+- RWD
+- JS
+- JQuery
