@@ -1,0 +1,33 @@
+{
+  "name": "psd-to-html",
+  "version": "1.0.0",
+  "description": "First PDS to HTML\r It's not my project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoska91/PDStoHTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoska91/PDStoHTML/issues"
+  },
+  "homepage": "https://github.com/zoska91/PDStoHTML#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babili": "^0.1.4",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-imagemin": "^5.0.3"
+  },
+  "dependencies": {
+    "del": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
